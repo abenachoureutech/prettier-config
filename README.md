@@ -1,13 +1,13 @@
 # `@azz/prettier-config`
 
-> My personal [Prettier](https://prettier.io) config.
+> Eutech [Prettier](https://prettier.io) config.
 
 ## Usage
 
 **Install**:
 
 ```bash
-$ yarn add --dev @azz/prettier-config
+$ yarn add --dev @abenachoureutech/prettier-config
 ```
 
 **Edit `package.json`**:
@@ -15,6 +15,6 @@ $ yarn add --dev @azz/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@azz/prettier-config"
+  "prettier": "@abenachoureutech/prettier-config"
 }
 ```
