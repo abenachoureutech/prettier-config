@@ -1,4 +1,4 @@
-# `@azz/prettier-config`
+# `@abenachoureutech/prettier-config`
 
 > Eutech [Prettier](https://prettier.io) config.
 
